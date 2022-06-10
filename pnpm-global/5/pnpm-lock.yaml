@@ -1,0 +1,20 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@dcloudio/uni-app': ^3.0.0-alpha-3041320220531001
+  '@dcloudio/uni-cli-shared': ^3.0.0-alpha-3041320220531001
+  '@dcloudio/uni-core': ^3.0.0-alpha-3041320220531001
+  '@dcloudio/uni-mp-alipay': ^3.0.0-alpha-3041320220531001
+  '@dcloudio/uni-mp-core': ^3.0.0-alpha-3041320220531001
+  '@dcloudio/uni-mp-vite': ^3.0.0-alpha-3041320220531001
+  '@dcloudio/uni-mp-vue': ^3.0.0-alpha-3041320220531001
+  '@dcloudio/uni-mp-weixin': ^3.0.0-alpha-3041320220531001
+  '@dcloudio/vite-plugin-uni': ^3.0.0-alpha-3041320220531001
+
+dependencies:
+  '@dcloudio/uni-app': link:../../../../../../../../opt/homebrew/Cellar/node/17.2.0/pnpm-global/5/node_modules/@dcloudio/uni-app
+  '@dcloudio/uni-cli-shared': link:../../../../../../../../opt/homebrew/Cellar/node/17.2.0/pnpm-global/5/node_modules/@dcloudio/uni-cli-shared
+  '@dcloudio/uni-mp-alipay': link:../../../../../../../../opt/homebrew/Cellar/node/17.2.0/pnpm-global/5/node_modules/@dcloudio/uni-mp-alipay
+  '@dcloudio/uni-mp-vue': link:../../../../../../../../opt/homebrew/Cellar/node/17.2.0/pnpm-global/5/node_modules/@dcloudio/uni-mp-vue
+  '@dcloudio/uni-mp-weixin': link:../../../../../../../../opt/homebrew/Cellar/node/17.2.0/pnpm-global/5/node_modules/@dcloudio/uni-mp-weixin
+  '@dcloudio/vite-plugin-uni': link:../../../../../../../../opt/homebrew/Cellar/node/17.2.0/pnpm-global/5/node_modules/@dcloudio/vite-plugin-uni
